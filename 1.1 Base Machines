@@ -1,0 +1,10 @@
+1. a) Verify that the code for 13 is 1101 in a 1<2 machine.
+
+[.][.][][.]
+2^3+2^2+0+1=13
+Each dot in the 1<2 machine represents 2^x besides the first one, when it is added up the sum is 13. 
+
+b) What is the code for 50?
+
+[.][.][][][.][]
+2^5+2^4+0+0+2+0=32
